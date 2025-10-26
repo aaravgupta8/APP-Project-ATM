@@ -1,0 +1,23 @@
+@'
+# Java
+*.class
+*.log
+
+# Build / IDE
+/bin/
+/out/
+/target/
+/build/
+.classpath
+.project
+.settings/
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jars (optional; keep jars if you want them tracked)
+# *.jar
+'@ | Set-Content .gitignore
