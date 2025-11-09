@@ -189,7 +189,7 @@ ATM-Management-System/
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/aaravgupta8/APP-Project-ATM
-   cd ATM-Management-System
+   cd APP-Project-ATM
    ```
 
 2. **Database Setup:**
