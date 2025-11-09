@@ -188,7 +188,7 @@ ATM-Management-System/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/vaibhav-pant/ATM-Management-System.git
+   git clone https://github.com/aaravgupta8/APP-Project-ATM
    cd ATM-Management-System
    ```
 
